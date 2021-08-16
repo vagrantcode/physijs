@@ -1,5 +1,5 @@
 {
-  "name": "physijs",
+  "name": "@notbucai/physijs",
   "version": "1.0.3",
   "description": "Physics plugin for Three.js",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "author": "Chandler Prall <chandler.prall@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/renay/physijs"
+    "url": "https://github.com/notbucai/physijs"
   },
   "keywords": [
     "physijs",
@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/renay/physijs/issues"
+    "url": "https://github.com/notbucai/physijs/issues"
   },
-  "homepage": "https://github.com/renay/physijs#readme"
+  "homepage": "https://github.com/notbucai/physijs#readme"
 }
