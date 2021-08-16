@@ -7,7 +7,16 @@
   "peerDependencies": {
     "three": "^0.131.3"
   },
-  "author": "Chandler Prall <chandler.prall@gmail.com>",
+  "author": [
+    {
+      "name": "Chandler Prall",
+      "email": "<chandler.prall@gmail.com>"
+    },
+    {
+      "name": "不才",
+      "email": "<1450941858@qq.com>"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/notbucai/physijs"
