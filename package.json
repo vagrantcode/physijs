@@ -1,25 +1,18 @@
 {
-  "name": "@bucai/physijs",
-  "version": "1.0.3",
+  "name": "@mw/physijs",
+  "version": "1.0.1",
   "description": "Physics plugin for Three.js",
   "main": "src/index.js",
   "dependencies": {},
-  "peerDependencies": {
-    "three": "^0.131.3"
-  },
   "author": [
     {
-      "name": "Chandler Prall",
-      "email": "<chandler.prall@gmail.com>"
-    },
-    {
-      "name": "不才",
-      "email": "<1450941858@qq.com>"
+      "name": "mw",
+      "email": "<1129739140@qq.com>"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/notbucai/physijs"
+    "url": "https://github.com/vagrantcode/physijs.git"
   },
   "keywords": [
     "physijs",
@@ -27,11 +20,6 @@
   ],
   "types": "index",
   "devDependencies": {
-    "@types/three": "^0.93.31"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/notbucai/physijs/issues"
-  },
-  "homepage": "https://github.com/notbucai/physijs#readme"
+  "license": "MIT"
 }

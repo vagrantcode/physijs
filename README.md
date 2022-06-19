@@ -1,6 +1,7 @@
 
 Physijs
 =======
+项目为fork项目，本项目只是发布为适合自己项目得类库
 
 `this repository fix webpack5 class extends！`
 
